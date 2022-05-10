@@ -1,6 +1,3 @@
-from numpy import generic
-
-
 generic = ['s favourite band is Nickelback', 'genuinely believes the Earth is flat', 'is a lump of coal', 'is a disappointment to their parents and everyone who has ever known them', 'once shat on a turtle', 
 'is cringe', 'is going bald', 'is a shit dead idiot', 'smells like a three day old boiled egg', 'would sleep with a mouldy loaf of bread',
 'is riddled with herpes', 'lacks the warmth and depth to be a cunt', 'is as cool as a cum-filled cucumber', 'is less endearing than a cum crusted sock', 'has aged terribly', 'looks and smells and acts like a meth addict on a weeks long bender',
