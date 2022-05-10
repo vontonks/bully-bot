@@ -37,11 +37,11 @@ async def on_message(message):
         await message.channel.send(random.choice(casey))
         return
 
-    if message.content.startswith('$bully'):
+    if message.content.startswith('$bully') or message.content.startswith('$BULLY') or message.content.startswith('$Bully'):
         print(client.user)
         user_id = result.group(1)
         await message.channel.send(f'<@{user_id}>'+ ' ' + random.choice(insult) + '.')
-
+    
         
 
 
