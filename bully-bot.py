@@ -59,4 +59,4 @@ async def on_message(message):
         user_id = result.group(1)
         await message.channel.send(f'<@{user_id}>'+ ' ' + random.choice(insult) + '.')
     
-client.run('OTY5MTM2OTQ1NjEzNjU2MDk0.YmpBHQ.ZMcUnx033BSapMLTAZ9a2FJctrI')
+client.run('token')
