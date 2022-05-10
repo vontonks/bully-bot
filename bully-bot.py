@@ -17,8 +17,6 @@ insult = ['LIST']
 negative = ['LIST']
 casey = ['LIST']
 
-count = 0
-
 @client.event
 
 async def on_message(message):
