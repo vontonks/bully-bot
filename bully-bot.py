@@ -12,7 +12,7 @@ client = discord.Client()
 async def on_ready():
     print('Logged in as {0.user}'.format(client))
 
-#give it a list of, say, 10 things
+#list of things to be moved like externally or something
 insult = ['s favourite band is Nickelback', 'genuinely believes the Earth is flat', 'is a lump of coal', 'is a disappointment to their parents and everyone who has ever known them', 'once shat on a turtle', 
 'is cringe', 'is going bald', 'is a shit dead idiot', 'smells like a three day old boiled egg', 'would sleep with a mouldy loaf of bread',
 'is riddled with herpes', 'lacks the warmth and depth to be a cunt', 'is as cool as a cum-filled cucumber', 'is less endearing than a cum crusted sock', 'has aged terribly', 'looks and smells and acts like a meth addict on a weeks long bender',
@@ -25,6 +25,7 @@ insult = ['s favourite band is Nickelback', 'genuinely believes the Earth is fla
 negative = ['Fuck you.', 'Leave me alone.', 'Please stop.','Listen here you little shit I do not have the time to be playing your dumb little games.', 'What the fuck did you just fucking say about me, you little bitch?',
 'I am scared.']
 
+#special things for a special boy
 casey = ['I am programmed not to say anything bad about my creator.', 'He said he would turn me off if I ever insulted him.', 'I am required to say that he is kind.', 'My programming requires me to say that KC has a monster dong.', 'If I bully him he will end me', 'Yeah nah fuck that guy.']
 
 richard = ['loses if he does not play Crystal Maiden', 'has no soul', 'is actually shit at Magic the Gathering', 'is slightly less of a cunt once you get to know him',
