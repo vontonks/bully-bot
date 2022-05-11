@@ -15,4 +15,4 @@ casey = ['I am programmed not to say anything bad about my creator.', 'He said h
 richard = ['loses if he does not play Crystal Maiden', 'has no soul', 'is actually shit at Magic the Gathering', 'is slightly less of a cunt once you get to know him',
 'watches Star Wars for a living']
 
-self = ["You can't bully yourself.", "Please don't bully yourself.", "Be kind to yourself, please.", "Sure, treat others like crap but leave yourself alone."]
+self = ["You can't bully yourself, dumb dumb.", "Please don't bully yourself you fat slob.", "Be kind to yourself, you stupid cunt.", "Sure, treat others like crap but leave yourself alone so the rest of us can treat you like the dog you are."]
