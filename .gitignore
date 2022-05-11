@@ -1,2 +1,5 @@
-
+test.py
 settings.py
+__pycache__
+*.pyc
+__pycache__/insults.cpython-39.pyc
